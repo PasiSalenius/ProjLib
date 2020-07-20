@@ -1,3 +1,5 @@
+import ProjLib
+
 let DEG_TO_RAD = Double.pi / 180
 fileprivate let WGS84_EPSG_CODE : Int32 = 4326
 fileprivate let UTM_ZONE_1N_CODE : Int32 = 32601 // = WGS 84 / UTM zone 1N //16001 = UTM Zone 1N
