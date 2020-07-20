@@ -1,0 +1,4 @@
+module Proj {
+    umbrella header "proj.h"
+    link "proj"
+}
